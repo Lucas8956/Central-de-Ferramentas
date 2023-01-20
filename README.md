@@ -14,15 +14,9 @@ Além de possibilitar fazer reservas, consulta-las e excluí-las (sobre a condi�
 ![Captura de tela_20230119_211809](https://user-images.githubusercontent.com/119439605/213601455-404b2b14-d0d7-469f-b782-30eb2b2d57fd.png)
 
 
-Os pacotes usados foram:
-Tkinter
-Tkcalendar
-Datetime
-Psycopeg 2
-Pandas
+Os pacotes usados foram: Tkinter, Tkcalendar, Datetime, Psycopeg 2, Pandas.
 
-Segue abaixo link para um vídeo ddemonstrativo
-https://www.youtube.com/watch?v=Z5KsAPTGkCU
+Segue link para um vídeo demonstrativo --> https://www.youtube.com/watch?v=Z5KsAPTGkCU
 
 OBS: No momento ainda não foi criado um banco com acesso remoto, apenas local.
 
