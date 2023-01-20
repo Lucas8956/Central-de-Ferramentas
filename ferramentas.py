@@ -6,7 +6,7 @@ class Ferramentas_BD:
 
     def abrir_coneccao(self):
         try:
-            self.coneccao = psycopg2.connect(user = 'postgres', password = 'PRATELEIRA3madeira', host = '127.0.0.1', port = '5432', database = 'postgres')
+            self.coneccao = psycopg2.connect(user = 'postgres', password = '###################', host = '127.0.0.1', port = '5432', database = 'postgres')
             print('Conexão aberta')
         except (Exception, psycopg2.Error) as error:
             if (self.coneccao):
